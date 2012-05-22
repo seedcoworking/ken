@@ -31,7 +31,6 @@
     "scribe-node": "*",
     "scraper": "*",
     "githubot": "*",
-    "Sandbox": "*",
     "underscore": "*",
     "prowler": "*",
     "hashlib": "*",
