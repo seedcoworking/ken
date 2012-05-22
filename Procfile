@@ -1,1 +1,1 @@
-web: bin/hubot -a campfire -n ken!
+web: bin/hubot -a campfire -n Hubot
