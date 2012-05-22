@@ -42,6 +42,7 @@
     "aws2js": "*",
     "redis": "*",
     "date-utils": "*",
+    "node-stringprep": "*",
     "node-xmpp": "*"
   }
 }
