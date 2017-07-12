@@ -3,7 +3,10 @@
   "version":     "2.1.4",
   "author":      "GitHub Inc.",
   "keywords":    "github hubot campfire bot",
-  "description": "A simple helpful Robot for your Company",
+  "description": "A hubot for Seed Coworking",
+  "engines": {
+    "node": "4.8.4"
+  },
   "licenses":     [{
     "type":       "MIT",
     "url":        "http://github.com/github/hubot/raw/master/LICENSE"
